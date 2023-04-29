@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a01ad647.css",
-    "main.js": "/static/js/main.103bf242.js",
-    "static/js/787.b701888c.chunk.js": "/static/js/787.b701888c.chunk.js",
-    "index.html": "/index.html",
-    "main.a01ad647.css.map": "/static/css/main.a01ad647.css.map",
-    "main.103bf242.js.map": "/static/js/main.103bf242.js.map",
-    "787.b701888c.chunk.js.map": "/static/js/787.b701888c.chunk.js.map"
+    "main.css": "https://vignesh1805.github.io/react1/static/css/main.a01ad647.css",
+    "main.js": "https://vignesh1805.github.io/react1/static/js/main.8d344319.js",
+    "static/js/787.b701888c.chunk.js": "https://vignesh1805.github.io/react1/static/js/787.b701888c.chunk.js",
+    "index.html": "https://vignesh1805.github.io/react1/index.html",
+    "main.a01ad647.css.map": "https://vignesh1805.github.io/react1/static/css/main.a01ad647.css.map",
+    "main.8d344319.js.map": "https://vignesh1805.github.io/react1/static/js/main.8d344319.js.map",
+    "787.b701888c.chunk.js.map": "https://vignesh1805.github.io/react1/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a01ad647.css",
-    "static/js/main.103bf242.js"
+    "static/js/main.8d344319.js"
   ]
 }
